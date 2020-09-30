@@ -1,0 +1,54 @@
+body {
+    background-image: url('grey.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+  }
+
+  #cv_paper{
+      background-color: azure;
+      width: 50%;
+      height: 100%;
+      margin-top: 2% ;
+      margin-bottom: 2% ;
+      margin-left: 25% ;
+      padding-bottom: 0;
+      
+  }
+#header{
+    margin-bottom: 2%;
+}
+#profil_bild{
+    display: inline-block;
+    width: 22.2%;
+}
+#profil_info{
+    display: inline-block;
+    width: 72.2%;
+}
+#profil_info p{
+    text-align:right;
+
+}
+
+.wow{
+    background-color: #000099;
+    color: rgb(255, 255, 255);
+    font-size: 2em;
+    border:  transparent;
+    border-radius: 5px;
+}
+
+#left{
+    display: inline-block;
+    background-color: darkturquoise;
+    width: 35%;
+    padding-left: 10px;
+    padding-right: 10px;
+    text-align: center ;
+}
+#right{
+    display: inline-block;
+    background-color: rgba(255, 0, 0, 0);
+    width: 60%;
+}
