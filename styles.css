@@ -34,6 +34,7 @@ body {
 #profil_info p{
     text-align:right;
 }
+#profil_info button { float:right}
 
 .wow{
     background-color: #000099;
